@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+}
+
+.odkazy{
+    text-align: right;
+    word-spacing: 16px;
+    background-color: blue;
+    padding: 20px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+
+}
+
+.chat{
+    text-align: center;
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    margin: 20px;
+}
+
+.box{
+    display: inline;
+}
+
+.searchbar{
+    
+}
+
+button{
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.lorem{
+    font-size: 15px;
+    background-color: blue;
+    padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+    margin-left: 32px;
+    margin-right: 32px;
+}
+
+.paticka{
+    background-color: aqua;
+    padding: 2px;
+}
